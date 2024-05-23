@@ -1,0 +1,24 @@
+h1 {text-align: center;}
+body {background-color:peachpuff;}
+section {
+    background-color:bisque;
+    text-align: center;
+    border-color: firebrick;
+    padding: 20px;
+    border-style:outset;
+}
+input {
+    border-radius: 10px;
+    tab-size: 250;
+}
+input:hover {
+    color:bisque;
+}
+button {border-radius: 10px;
+size: 200px;
+color:indianred;
+background-color: silver;}
+
+button:hover {color:tomato;
+background-color:crimson;
+border-radius: 20px;}
